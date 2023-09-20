@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: peru;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 350px;
+    height: auto;
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+}
+
+.description-heading {
+    text-align: center;
+    font-size: 25px;
+}
+
+.description {
+    text-align: center;
+    font-size: 16px;
+}
+
+.ingredients-heading, .step-1, .step-2, .step-3, h3 {
+    text-decoration: underline;
+}
