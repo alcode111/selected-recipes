@@ -17,3 +17,16 @@ ul {
     list-style: none;
     gap: 10px;
 }
+
+li {
+    border: 9px solid rgb(76, 33, 33);
+    border-radius: 5px;
+    font-size: 80px;
+    padding: 5px;
+    background-color:chocolate;
+}
+
+a {
+    text-decoration: none;
+    color:bisque;
+}
