@@ -10,3 +10,15 @@ h1 {
     font-size: 40px;
     color: sienna;
 }
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 350px;
+    height: auto;
+    border: 2px solid goldenrod;
+    border-radius: 5px;
+}
