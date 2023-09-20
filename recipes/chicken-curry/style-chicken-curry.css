@@ -33,3 +33,7 @@ img {
     font-style: normal;
     font-size: 16px;
 }
+
+.ingredients-heading, .step-1, .step-2, h3 {
+    text-decoration: underline;
+}
