@@ -22,3 +22,14 @@ img {
     border: 2px solid goldenrod;
     border-radius: 5px;
 }
+
+.description-heading {
+    text-align: center;
+    font-size: 25px;
+}
+
+.description {
+    text-align: center;
+    font-style: normal;
+    font-size: 16px;
+}
