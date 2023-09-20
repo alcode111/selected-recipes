@@ -1,1 +1,1 @@
-# selected-recipes
+This project is a website that will contain recipes. It will showcase a few of the skills I have learned about the HTML language and CSS.
