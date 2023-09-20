@@ -8,3 +8,12 @@ h1 {
     text-align: center;
     color: rgb(113, 64, 78);
 }
+
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    gap: 10px;
+}
